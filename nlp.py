@@ -9,11 +9,11 @@ from textblob import TextBlob
 #title
 st.title('Airline Tweet Sentiment Analysis:airplane:')
 #markdown
-st.markdown('This application is all about tweet sentiment analysis of airlines. We can analyse reviews of the passengers using this streamlit app.')
+st.markdown('This application is all about tweet sentiment analysis of airlines. We can analyse and predict the sentiment behind their reviews')
 #sidebar
 st.sidebar.title('Sentiment analysis of airlines')
 # sidebar markdown
-st.sidebar.markdown("🛫We can analyse and predict sentiment of passengers review from this application.🛫")
+st.sidebar.markdown(":beginner:We can analyse and predict sentiment of passengers review from this application:beginner:")
 #loading the data (the csv file is in the same folder)
 #if the file is stored the copy the path and paste in read_csv method.
 data=pd.read_csv('Tweets.csv')
