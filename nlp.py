@@ -7,7 +7,7 @@ import numpy as np
 from textblob import TextBlob
 
 #title
-st.title('Tweet Sentiment Analysis')
+st.title('Airline Tweet Sentiment Analysis:airplane:')
 #markdown
 st.markdown('This application is all about tweet sentiment analysis of airlines. We can analyse reviews of the passengers using this streamlit app.')
 #sidebar
