@@ -3,4 +3,5 @@ matplotlib==3.3.4
 wordcloud==1.8.1
 numpy==1.20.1
 textblob==0.15.3
+plotly==5.3.1
 streamlit
