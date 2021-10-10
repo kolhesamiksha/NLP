@@ -5,12 +5,16 @@ The methods used along to analyse and predict the sentiment is as follows:
 2. After Preprocessing, text data should be converted to machine understandable manner i.e. one-hot encoded(Count Vectorizer#Bag of Words) or list of vector of words(Word2Vec#Word Embedding) 
 3. Most of the times Text data is imbalanced, so i checked that first and applied smote() oversampling technique..
 4. splitted the data into train and validation..
-5. Applied random_forest,SVC,Multinomial Naive_bayes, and finally naive bayes..
-6. Neural Network is applied to check accuracy improvement.. in that i flatten the input vectors through gru for best features..and then feed to dense layers...
-7. Source Code is Available in twitter-Airline-sentiment.ipynb file
+5. I have done PCA to visualise the best fit model to our data
+6. Applied random_forest,SVC,Multinomial Naive_bayes, and finally naive bayes..
+7. Neural Network is applied to check accuracy improvement.. in that i flatten the input vectors through gru for best features..and then feed to dense layers...
+8. Source Code is Available in twitter-Airline-sentiment.ipynb file
 
 ## Libraries Used:
-
+Tensorflow
+Neattext
+Numpy,Pandas,Matplotlib
+WordCloud
 
 
 Here is My Airline Sentiment Analysis Webapp Link:
