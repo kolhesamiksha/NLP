@@ -11,11 +11,22 @@ The methods used along to analyse and predict the sentiment is as follows:
 8. Source Code is Available in twitter-Airline-sentiment.ipynb file
 
 ## Libraries Used:
-Tensorflow
-Neattext
-Numpy,Pandas,Matplotlib
-WordCloud
+1. Tensorflow
+2. Neattext
+3. Numpy
+4. Pandas
+5. Matplotlib
+6. WordCloud
+7. Sci-kit learn
+8. gensim for Word2Vec
+
+## Performance:
+1. Accuracy for Random Forest         = 95%
+2. Accuracy for MultinomialNaiveBayes = 75%
+3. Accuracy for SVM                   = 65%
+4. Accuracy for neural network        = 96%
 
 
 Here is My Airline Sentiment Analysis Webapp Link:
 https://airline-sentiment-sam-app.herokuapp.com/
+
