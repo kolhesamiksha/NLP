@@ -8,7 +8,11 @@ The methods used along to analyse and predict the sentiment is as follows:
 5. I have done PCA to visualise the best fit model to our data
 6. Applied random_forest,SVC,Multinomial Naive_bayes, and finally naive bayes..
 7. Neural Network is applied to check accuracy improvement.. in that i flatten the input vectors through gru for best features..and then feed to dense layers...
-8. Source Code is Available in twitter-Airline-sentiment.ipynb file
+
+Here is the image of the framework i applied for neural network processing
+![image](https://user-images.githubusercontent.com/73512374/136689327-c3a2461f-9cf8-48d5-b273-e5ea5993bf55.png)
+
+9. Source Code is Available in twitter-Airline-sentiment.ipynb file
 
 ## Libraries Used:
 1. Tensorflow
