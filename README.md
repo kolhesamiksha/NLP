@@ -2,8 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/73512374/179816200-81204cf9-d824-44e0-b4c7-6147514ac558.png)
 
-
-
 The methods used along to analyse and predict the sentiment is as follows:
 1. Text/Data Preprocessing: I used neattext nlp_library functions to remove special characters,stopwords(not usedul for review analysis),did lemmatisation to find root words for same meaning words etc..
 2. After Preprocessing, text data should be converted to machine understandable manner i.e. one-hot encoded(Count Vectorizer#Bag of Words) or list of vector of words(Word2Vec#Word Embedding) 
