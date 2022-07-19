@@ -1,6 +1,5 @@
 ## End-to-End Airline Twitter Sentiment Analysis NLP project
 
-![image](https://user-images.githubusercontent.com/73512374/179816696-d817b54a-a415-4202-806d-c0b4ab3b4296.png)
 
 The methods used along to analyse and predict the sentiment is as follows:
 1. Text/Data Preprocessing: I used neattext nlp_library functions to remove special characters,stopwords(not usedul for review analysis),did lemmatisation to find root words for same meaning words etc..
@@ -10,6 +9,8 @@ The methods used along to analyse and predict the sentiment is as follows:
 5. I have done PCA to visualise the best fit model to our data
 6. Applied random_forest,SVC,Multinomial Naive_bayes, and finally naive bayes..
 7. Neural Network is applied to check accuracy improvement.. in that i flatten the input vectors through gru for best features..and then feed to dense layers...
+
+![image](https://user-images.githubusercontent.com/73512374/179816831-54755849-97ac-4f9c-8083-2d240ca4e48a.png)
 
 Here is the image of the framework i applied for neural network processing
 ![image](https://user-images.githubusercontent.com/73512374/136689327-c3a2461f-9cf8-48d5-b273-e5ea5993bf55.png)
