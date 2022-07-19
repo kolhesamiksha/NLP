@@ -34,7 +34,6 @@ Here is the image of the framework i applied for neural network processing
 4. Accuracy for neural network        = 96%
 
 
-
 Here is My Airline Sentiment Analysis Webapp Link:
 https://airline-sentiment-sam-app.herokuapp.com/
 
