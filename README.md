@@ -1,6 +1,7 @@
 ## End-to-End Airline Twitter Sentiment Analysis NLP project
 
-![image](https://user-images.githubusercontent.com/73512374/179816037-d304874c-a844-41ce-9414-086e0ac14c7b.png)
+![image](https://user-images.githubusercontent.com/73512374/179816200-81204cf9-d824-44e0-b4c7-6147514ac558.png)
+
 
 
 The methods used along to analyse and predict the sentiment is as follows:
