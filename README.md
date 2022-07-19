@@ -1,5 +1,8 @@
 ## End-to-End Airline Twitter Sentiment Analysis NLP project
 
+![image](https://user-images.githubusercontent.com/73512374/179816037-d304874c-a844-41ce-9414-086e0ac14c7b.png)
+
+
 The methods used along to analyse and predict the sentiment is as follows:
 1. Text/Data Preprocessing: I used neattext nlp_library functions to remove special characters,stopwords(not usedul for review analysis),did lemmatisation to find root words for same meaning words etc..
 2. After Preprocessing, text data should be converted to machine understandable manner i.e. one-hot encoded(Count Vectorizer#Bag of Words) or list of vector of words(Word2Vec#Word Embedding) 
