@@ -1,6 +1,7 @@
 ## End-to-End Airline reviews Sentiment Analysis NLP project
 
-![image](https://user-images.githubusercontent.com/73512374/179817211-062d7a8e-e21d-444a-909a-e4e8ff1cfa3f.png)
+![super-necessary](https://user-images.githubusercontent.com/73512374/191226800-b2c1467d-fb42-48df-a49e-70e794e4eee0.png)
+
 
 The methods used along to analyse and predict the sentiment is as follows:
 1. Text/Data Preprocessing: I used neattext nlp_library functions to remove special characters,stopwords(not usedul for review analysis),did lemmatisation to find root words for same meaning words etc..
