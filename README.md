@@ -1,4 +1,4 @@
-## End-to-End Airline reviews Sentiment Analysis NLP project
+## End-to-End Airline reviews Sentiment Analysis & Text Classification NLP project
 
 ![super-necessary](https://user-images.githubusercontent.com/73512374/191226800-b2c1467d-fb42-48df-a49e-70e794e4eee0.png)
 
