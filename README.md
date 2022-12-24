@@ -37,5 +37,5 @@ Here is the image of the framework i applied for neural network processing
 
 
 Here is My Airline Sentiment Analysis Webapp Link:
-https://airline-sentiment-sam-app.herokuapp.com/
+https://kolhesamiksha-nlp-nlp-vahoet.streamlit.app/
 
